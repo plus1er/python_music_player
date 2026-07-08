@@ -11,3 +11,4 @@ BUTTON_IMAGES = {
 
 and 
 
+PANEL_BG_IMAGE = "images\\bg.png"
