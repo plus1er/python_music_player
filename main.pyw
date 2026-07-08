@@ -53,14 +53,14 @@ PIXEL = 4  # size of one icon "pixel" in real screen pixels
 # pixel-art styled so they don't blur when scaled.
 # ============================================================
 BUTTON_IMAGES = {
-    "play": "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\play.png",      # e.g. "images/play.png"
-    "pause": "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\pause.png",     # e.g. "images/pause.png"
-    "next": "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\next.png",
-    "prev": "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\prev.png",
-    "stop": "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\pause.png",
+    "play": "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\play.png",      # e.g. "images/play.png"
+    "pause": "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\pause.png",     # e.g. "images/pause.png"
+    "next": "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\next.png",
+    "prev": "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\prev.png",
+    "stop": "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\images\\pause.png",
 }
 BUTTON_SIZE = (40, 40)          # width, height each button image is scaled to
-PANEL_BG_IMAGE = "C:\\Users\\arism\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\bg.png"           # e.g. "images/panel_bg.png" - fills the whole window
+PANEL_BG_IMAGE = "C:\\Users\\USERNAME\\Desktop\\main\\CODING PROJECTS\\.py\\app_v1\\bg.png"           # e.g. "images/panel_bg.png" - fills the whole window
 WINDOW_SIZE = (320, 420)        # used to scale PANEL_BG_IMAGE to fill the window
 
 
