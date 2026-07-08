@@ -1,25 +1,10 @@
 """
-Pixel MP3 Player
------------------
-A minimal, retro pixel-themed music player for your downloaded songs.
 
-Install requirements:
-    pip install pygame-ce pillow
+MADE BY PLUS1ERRRRRRRRRRRR
 
-(Pillow is only needed if you want to use custom images for buttons
- or the background — see BUTTON_IMAGES / PANEL_BG_IMAGE below.)
+I LOVE YOU ALL  
 
-Run:
-    python pixel_music_player.py
-
-HOW TO MAKE YOUR OWN BUTTONS:
-Scroll down to the ICONS section. Each icon is a grid of characters:
-    '#' = filled pixel (uses the button's color)
-    '.' = empty pixel (transparent, shows background)
-Edit the grids or add new ones, then reference them in the buttons list.
-Change PIXEL to make icons bigger/smaller (this is the size of one "pixel").
 """
-
 import os
 import tkinter as tk
 from tkinter import filedialog
